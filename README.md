@@ -56,7 +56,7 @@ In order to use the app go to the [releases page](https://github.com/D3W10/PI-De
 
 ### System Requirements
 
-To run the game you need:
+To run the app you need:
 
 - A computer running Windows:
     - Windows 10 or superior;
@@ -66,7 +66,7 @@ To run the game you need:
 
 ### Installation
 
-After downloading the app from the [releases page](https://github.com/D3W10/PI-Decimals/releases), run it and you can start using. PI Decimals is a portable application, being able to be saved in a portable drived and used in any windows machine.
+After downloading the app from the [releases page](https://github.com/D3W10/PI-Decimals/releases), run it and you can start using. PI Decimals is a portable application, so it can be saved in a portable drive (like a pen USB) and be used in any windows machine.
 
 <br />
 <br />
