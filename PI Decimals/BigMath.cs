@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Numerics;
 
-namespace Casas_do_PI
+namespace PI_Decimals
 {
     public static class BigMath
     {

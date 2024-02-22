@@ -1,85 +1,111 @@
 <br />
 <br />
 <div align="center">
-    <a href="https://github.com/D3W10/Casas-do-PI">
-        <img src="https://raw.githubusercontent.com/D3W10/Casas-do-PI/master/logo.png" alt="Logo" width="60" height="60">
+    <a href="https://github.com/D3W10/PI-Decimals">
+        <img src="https://raw.githubusercontent.com/D3W10/PI-Decimals/master/logo.png" alt="Logo" width="60" height="60">
     </a>
     <br />
     <br />
-    <h2 align="center">Casas do PI</h2>
-    <h3 align="center">Descubra o PI como nunca antes</h3>
+    <h2 align="center">PI Decimals</h2>
+    <h3 align="center">Discover PI like never before</h3>
     <br />
     <p align="center">
-        <a href="https://github.com/D3W10/Casas-do-PI/releases">Transferir aplicação</a>
+        <a href="https://github.com/D3W10/PI-Decimals/releases">Download App</a>
         ·
-        <a href="https://github.com/D3W10/Casas-do-PI/issues">Reportar um Bug</a>
+        <a href="https://github.com/D3W10/PI-Decimals/issues">Report Bug</a>
         ·
-        <a href="https://github.com/D3W10/Casas-do-PI/issues">Sugerir uma Funcionalidade</a>
+        <a href="https://github.com/D3W10/PI-Decimals/issues">Request Feature</a>
     </p>
 </div>
 <br />
 
-### Tabela de Conteúdos
-1. [Sobre](#sobre)
-    - [Feito Com](#feito-com)
-2. [Introdução](#introdução)
-    - [Pré-requisitos](#pré-requisitos)
-    - [Instalação](#instalação)
-3. [Licença](#licença)
-4. [Créditos](#créditos)
+### Table of Contents
+1. [About](#about)
+    - [Built With](#built-with)
+2. [Getting Started](#getting-started)
+    - [System Requirements](#system-requirements)
+    - [Installation](#installation)
+3. [Development](#development)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation-1)
+4. [License](#license)
+5. [Credits](#credits)
 
 <br />
 <br />
 
-## Sobre
+## About
 
-Casas do PI é uma aplicação de consola que permite obter as casas decimais do PI.
+PI Decimals is a console application that allows you to calculate and obtain the decimal places of the PI constant. In order to use the application you need to download it using the instructions below.
 
 <br />
 
-### Feito Com
+### Built With
 
 - [C#](https://learn.microsoft.com/dotnet/csharp/)
 - [.NET Core](https://dotnet.microsoft.com/)
-- [Console Project (.NET Core)](https://learn.microsoft.com/visualstudio/get-started/csharp/tutorial-console)
 
 <br />
 <br />
 
-## Introdução
+## Getting Started
 
-Caso queira compilar a aplicação no seu dispositivo, siga os passos abaixo para começar.
+In order to use the app go to the [releases page](https://github.com/D3W10/PI-Decimals/releases) and download the latest version.
 
 <br />
 
-### Pré-requisitos
+### System Requirements
 
-Para executar a aplicação, precisará das seguintes ferramentas:
+To run the game you need:
+
+- A computer running Windows:
+    - Windows 10 or superior;
+- Have .NET 7 installed.
+
+<br />
+
+### Installation
+
+After downloading the app from the [releases page](https://github.com/D3W10/PI-Decimals/releases), run it and you can start using. PI Decimals is a portable application, being able to be saved in a portable drived and used in any windows machine.
+
+<br />
+<br />
+
+## Development
+
+If you want to deploy a copy of PI Decimals on your device to develop a feature or fix a bug, follow the steps below to get started.
+
+<br />
+
+### Prerequisites
+
+In order to run the application, you will need the following tools:
+- Visual Studio 2022
 - C# 11.0
 - .NET Core 7
 - git (*opcional*)
 
 <br />
 
-### Instalação
+### Installation
 
-1. Clonar o repositório
+1. Clone the repository
     ```sh
-    git clone https://github.com/D3W10/Casas-do-PI.git
+    git clone https://github.com/D3W10/PI-Decimals.git
     ```
-2. Abrir a solução no Visual Studio usando o ficheiro `.sln`
-3. Compile e execute pressionando `F5`
+2. Open the project solution (`.sln` file) using Visual Studio
+3. Compile and run by pressing `F5`
 
 <br />
 <br />
 
-## Licença
+## License
 
-Distribuído sobre a Mozilla Public License 2.0. Veja `LICENSE` para mais detalhes.
+Distributed under the Mozilla Public License 2.0. Check `LICENSE` for more details.
 
 <br />
 <br />
 
-## Créditos
+## Credits
 
-- Feito por [D3W10](https://d3w10.netlify.app/)
+- Made by [Daniel Nunes](https://d3w10.netlify.app/)
