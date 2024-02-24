@@ -1,9 +1,7 @@
 ﻿using PI_Decimals.Properties;
 using System;
-using System.Globalization;
 using System.Linq;
 using System.Text.RegularExpressions;
-using System.Threading;
 
 namespace PI_Decimals
 {
@@ -15,7 +13,6 @@ namespace PI_Decimals
             string qSentense, answer, pi;
             bool repeatQ;
 
-            Thread.CurrentThread.CurrentUICulture = CultureInfo.GetCultureInfo("fr-FR");
             Console.Title = Resources.AppName;
             RefreshConsole();
 
